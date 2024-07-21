@@ -127,7 +127,7 @@ nav div li a , .signouts a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/Photos/a.jpg);
+    background-image: url(Photos/a.jpg);
     image-rendering: none;
     background-size : cover;
     background-repeat: no-repeat;
